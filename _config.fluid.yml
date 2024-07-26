@@ -794,7 +794,7 @@ gitalk:
   clientSecret: 968c91b2d807a84ef4a885f24bf8e3a613df9103
   repo: liuliblog
   owner: liulifox233
-  admin: ['LiuliFox']
+  admin: ['liulifox233']
   language: zh-CN
   labels: ['Gitalk']
   perPage: 10
